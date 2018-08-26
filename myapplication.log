@@ -1,0 +1,9 @@
+2018-08-26 12:35:52.261  INFO 80884 --- [main] c.e.s.lComponent.LComponentApplication   : Starting LComponentApplication on DESKTOP-9F6K6E9 with PID 80884 (started by akshay in E:\akshay work\akshay sts\lComponent)
+2018-08-26 12:35:52.266  INFO 80884 --- [main] c.e.s.lComponent.LComponentApplication   : No active profile set, falling back to default profiles: default
+2018-08-26 12:35:52.873  INFO 80884 --- [main] c.e.s.lComponent.LComponentApplication   : Started LComponentApplication in 0.946 seconds (JVM running for 2.086)
+2018-08-26 12:40:30.021  INFO 45316 --- [main] c.e.s.lComponent.LComponentApplication   : Starting LComponentApplication on DESKTOP-9F6K6E9 with PID 45316 (started by akshay in E:\akshay work\akshay sts\lComponent)
+2018-08-26 12:40:30.132  INFO 45316 --- [main] c.e.s.lComponent.LComponentApplication   : No active profile set, falling back to default profiles: default
+2018-08-26 12:40:30.966  INFO 45316 --- [main] c.e.s.lComponent.LComponentApplication   : Started LComponentApplication in 1.363 seconds (JVM running for 2.808)
+2018-08-26 12:40:30.968  INFO 45316 --- [main] com.example.samples.lComponent.MyRunner  : Generating random name: John
+2018-08-26 12:40:30.968  INFO 45316 --- [main] com.example.samples.lComponent.MyRunner  : Generating random name: Jane
+2018-08-26 12:40:30.968  INFO 45316 --- [main] com.example.samples.lComponent.MyRunner  : Generating random name: Jane
